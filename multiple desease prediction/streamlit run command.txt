@@ -1,0 +1,1 @@
+streamlit run "C:\Users\USER\Documents\c_program\python\multiple desease prediction\multiple _desease_prediction_system.py"
